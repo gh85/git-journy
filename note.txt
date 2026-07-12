@@ -1,0 +1,3 @@
+git rm  --force  <file>  completely remove the file 
+git rm  --cached <file>  only  remove the file from staging
+
